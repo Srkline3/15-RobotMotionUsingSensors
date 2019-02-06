@@ -18,7 +18,7 @@ def main():
     #run_test_init()
     #run_test_go_and_stop()
     #run_test_go_straight_for_seconds()
-    run_test_go_straight_for_inches()
+    #run_test_go_straight_for_inches()
     run_test_go_straight_until_black()
 
 
@@ -127,7 +127,7 @@ def run_test_go_straight_until_black():
     print('Testing the   go_straight_until_black   method of SimpleRoseBot:')
     print('--------------------------------------------------')
     # -------------------------------------------------------------------------
-    # TODO: 7. Implement this function, then implement the
+    # DONE: 7. Implement this function, then implement the
     #   go_straight_until_black   method of the SimpleRoseBot class,
     #   then use this function to test that method.
     # -------------------------------------------------------------------------
